@@ -1,6 +1,6 @@
 ### 👋 Hi there, thanks for visiting!
 
-I am obsessed with GraphQL and try to work on it as much as possible.
+I am obsessed with GraphQL and try to build with it as much as possible.
 You are probably here for my pinned posts, but right now I am currently working on
 
 *[a graphQL related project...📦](https://github.com/lastnameswayne/fullstackcrudapp)
