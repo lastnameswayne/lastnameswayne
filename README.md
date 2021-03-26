@@ -3,7 +3,9 @@
 I am obsessed with GraphQL and try to build with it as much as possible.
 You are probably here for my pinned posts, but right now I am currently working on
 
-*[a graphQL related project...📦](https://github.com/lastnameswayne/fullstackcrudapp)
+*[Building foodfinder...🍎](https://github.com/lastnameswayne/foodfinder)
+*[Improving and refacotoring LeetBattle...🏆](https://github.com/lastnameswayne/leetbattle)
+*[Writing articles on GraphQL...✏️](https://github.com/lastnameswayne/crudappexampleblogpost)
 
 ___
 
