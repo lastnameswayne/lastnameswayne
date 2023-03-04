@@ -1,10 +1,7 @@
 <h1 align="center">Hey👋🏻🌊</h1>
-<h3 align="center">Software Engineer currently studying CS at Aarhus University</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tiarnanswayne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiarnanswayne" height="30" width="40" /></a>
-</p>
+<h3 align="center">I am a Software Engineer currently studying CS at Aarhus University</h3>
+<h3></h3>
+<p3 align="left">Github stats: (don't forget to check out my repos below!)</p3>
+<p></p>
 
-
-<h3 align="left">Activity on Github:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lastnameswayne&show_icons=true&locale=en" alt="lastnameswayne" /></p>
