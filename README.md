@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋🏻🌊</h1>
-<h3 align="center">I am a Software Engineer currently studying CS at Aarhus University</h3>
+<h3 align="center">I am a Software Engineer Intern at Uber</h3>
 <h3></h3>
 <p3 align="left">Github stats: (don't forget to check out my repos below!)</p3>
 <p></p>
