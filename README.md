@@ -5,7 +5,7 @@ Software engineer at Uber, working on Autoscaling. Interested in systems program
 ### Projects
 Previously built [realm-flipper-plugin](https://github.com/realm/realm-flipper-plugin) at MongoDB, a Flipper plugin for debugging React Native Realm databases.
 
-Non-work:
+Solo projects:
 
 - [tinycontainer](https://github.com/lastnameswayne/tinycontainer) Container runtime with FUSE lazy loading filesystem. Same idea behind Modal.
 - [modal-runner](https://github.com/lastnameswayne/modal-runner) VS Code extension that adds run buttons above Modal functions. [On the marketplace.](https://marketplace.visualstudio.com/items?itemName=swayne.modal-runner)
