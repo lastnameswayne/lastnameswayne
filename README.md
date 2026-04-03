@@ -12,3 +12,11 @@ Solo projects:
 - [raft](https://github.com/lastnameswayne/raft) Raft consensus algorithm: leader election, log replication, persistence.
 - [tinyDB](https://github.com/lastnameswayne/tinyDB) Key value store implementing the Bitcask paper. Append only log structured storage with in memory index.
 - [mininearestneighbors](https://github.com/lastnameswayne/mininearestneighbors) HNSW approximate nearest neighbor search from scratch.
+
+___
+
+
+>"The aggregate needs of a group of workloads may exhibit a much lower
+peak demand than the sum of individual peaks (because of individual peaks occurring at different times) allowing for resources to be overbooked."
+
+from Resource Management in Aurora Serverless
